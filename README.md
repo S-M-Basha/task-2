@@ -24,3 +24,5 @@ Hyperparameter Tuning: Optimizing model hyperparameters enhances performance met
 Bias-Variance Trade-off: Understanding the balance between bias and variance helps in selecting models that generalize well to unseen data.
 conclusion
 In conclusion, evaluating AI model performance through rigorous metrics provides critical insights into their effectiveness in solving specific problem domains. By selecting and optimizing models based on accuracy, precision, recall, and F1-score, organizations can make informed decisions about deployment and further improvements. Continuous evaluation ensures models maintain reliability and relevance in dynamic environments, ultimately contributing to enhanced decision-making and operational efficiency.
+
+![WhatsApp Image 2024-07-01 at 18 28 30_4f269288](https://github.com/S-M-Basha/task-2/assets/148529241/231168cb-1cd9-4cf5-a3b4-a5d76b19679e)
